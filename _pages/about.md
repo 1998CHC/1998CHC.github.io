@@ -34,6 +34,29 @@ redirect_from:
   <span style="font-size:14px;">*International Conference on Computer Vision **(ICCV, CCF-A)**, 2025* </span>[[Paper](1998CHC.github.io)]
 
 
+- &nbsp; <span class="badge" style="font-size:16px;">IJCAI '25 (CCF-A)</span> &nbsp;**Hallucination Reduction in Video-Language Models via Hierarchical Multimodal Consistency**
+
+  <span style="font-size:14px;">Jisheng Dang, Shengjun Deng, <strong style="color:#DE3163;">Haochen Chang</strong>, Teng Wang, Bimei Wang, Shude Wang, Nannan Zhu, Guo Niu, Jingwen Zhao, Jizhao Liu </span>
+
+  <span style="font-size:14px;">*International Joint Conference on Artificial Intelligence **(IJCAI, CCF-A)**, 2025* </span>[[Paper](1998CHC.github.io)]
+
+
+- &nbsp; <span class="badge" style="font-size:16px;">TIM '25 (JCR-Q1)</span> &nbsp;**Robust 6DoF Pose Tracking Considering Contour and Interior Correspondence Uncertainty for AR Assembly Guidance**
+
+  <span style="font-size:14px;">Jixiang Chen, Jing Chen, Kai Liu, <strong style="color:#DE3163;">Haochen Chang</strong>, Shanfeng Fu, Jian Yang </span>
+
+  <span style="font-size:14px;">*IEEE Transactions on Instrumentation and Measurement **(TIM, JCR-Q1)**, 2025* </span>[[Paper](https://arxiv.org/pdf/2502.11971)]
+
+
+- &nbsp; <span class="badge" style="font-size:16px;">ICASSP '24 (CCF-B)</span> &nbsp;**Wavelet-decoupling contrastive enhancement network for fine-grained skeleton-based action recognition**
+
+  <span style="font-size:14px;"><strong style="color:#DE3163;">Haochen Chang</strong>, Jing Chen, Yilin Li, Jixiang Chen, Xiaofeng Zhang </span>
+
+  <span style="font-size:14px;">*International Conference on Acoustics, Speech and Signal Processing **(ICASSP, CCF-B)**, 2024* </span>[[Paper](https://arxiv.org/pdf/2402.02210)]
+
+
+
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
