@@ -27,7 +27,7 @@ redirect_from:
 - *2025.07*: &nbsp;🎉🎉 Our HiOD was accepted by <span style="color:Red ;">ICCV 2025</span>.
 
 # 📝 Publications 
-- <span class="badge" style="display: inline-block; font-size:14px; vertical-align:middle; margin-right:8px; background: #eee; padding: 2px 8px; border-radius: 4px; position: relative; z-index: 1;">ICCV '25</span> **Hierarchical-aware Orthogonal Disentanglement Framework for Fine-grained Skeleton-based Action Recognition**
+- <span class="badge" style="display: inline-block; font-size:14px; vertical-align:middle; margin-right:8px; background: #1E90FF; color: white; padding: 4px 10px; border-radius: 4px; position: relative; z-index: 1; font-weight: bold;">ICCV '25</span> **Hierarchical-aware Orthogonal Disentanglement Framework for Fine-grained Skeleton-based Action Recognition**
 
   <span style="font-size:14px;"><strong style="color:#DE3163;">Haochen Chang</strong>, Pengfei Ren, Haoyang Zhang, Liang Xie, Hongbo Chen, Erwei Yin </span>
 
