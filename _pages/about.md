@@ -27,8 +27,7 @@ redirect_from:
 - *2025.07*: &nbsp;🎉🎉 Our HiOD was accepted by <span style="color:Red ;">ICCV 2025</span>.
 
 # 📝 Publications 
-
-- <span class="badge" style="font-size:16px; vertical-align:middle; margin-right:8px;">ICCV '25</span> **Hierarchical-aware Orthogonal Disentanglement Framework for Fine-grained Skeleton-based Action Recognition**
+- <span class="badge" style="font-size:14px; vertical-align:middle; margin-right:8px;">ICCV '25</span> **Hierarchical-aware Orthogonal Disentanglement Framework for Fine-grained Skeleton-based Action Recognition**
 
   <span style="font-size:14px;"><strong style="color:#DE3163;">Haochen Chang</strong>, Pengfei Ren, Haoyang Zhang, Liang Xie, Hongbo Chen, Erwei Yin </span>
 
@@ -41,6 +40,7 @@ redirect_from:
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024 - now*, Sun Yat-sen University, Guangzhou, China
+- *2021 - 2024*, Beijing Institute of Technology, Beijing, China
+- *2017 - 2021*, Ocean University of China, Qingdao, China
 
