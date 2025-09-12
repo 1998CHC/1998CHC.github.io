@@ -16,16 +16,19 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# About Me
 📚 Haochen Chang is currently a Ph.D. student in Computer Science at Sun Yat-sen University, supervised by Prof. Hongbo Chen. Previously, He obtained his bachelor's degree from Ocean University of China and his master's degree from Beijing Institute of Technology.
 
 💡 His research interest lies in (1)Hand-Object Interaction, (2)Action Recognition and Gesture Recognition.
 
 
+<span class='anchor' id='-news'></span>
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 My homepage is ready!
 - *2025.07*: &nbsp;🎉🎉 Our HiOD was accepted by <span style="color:Red ;">ICCV 2025</span>.
 
+
+<span class='anchor' id='-publications'></span>
 # 📝 Publications 
 - &nbsp; <span class="badge" style="font-size:16px;">ICCV '25 (CCF-A)</span> &nbsp;**Hierarchical-aware Orthogonal Disentanglement Framework for Fine-grained Skeleton-based Action Recognition**
 
@@ -56,12 +59,12 @@ redirect_from:
 
 
 
-
-
+<span class='anchor' id='-honors-and-awards'></span>
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+<span class='anchor' id='-educations'></span>
 # 📖 Educations
 - *2024 - now*, Sun Yat-sen University, Guangzhou, China
 - *2021 - 2024*, Beijing Institute of Technology, Beijing, China
