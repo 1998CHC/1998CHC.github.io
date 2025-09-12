@@ -29,8 +29,10 @@ redirect_from:
 # 📝 Publications 
 
 - &nbsp; <span class="badge" style="font-size:16px;">ICCV'25</span> &nbsp;**Hierarchical-aware Orthogonal Disentanglement Framework for Fine-grained Skeleton-based Action Recognition**
-<span style="font-size:14px;"> <strong style="color:#DE3163">Haochen Chang</strong>, Pengfei Ren, Haoyang Zhang, Liang Xie, Hongbo Chen, Erwei Yin</span>
-<span style="font-size:14px;"> International Conference on Computer Vision **(ICCV, CCF-A)**, 2025
+
+  <span style="font-size:14px;"> <strong style="color:#DE3163">Haochen Chang</strong>, Pengfei Ren, Haoyang Zhang, Liang Xie, Hongbo Chen, Erwei Yin</span>
+
+  <span style="font-size:14px;"> International Conference on Computer Vision **(ICCV, CCF-A)**, 2025
 
 
 
