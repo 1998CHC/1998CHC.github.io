@@ -61,13 +61,13 @@ redirect_from:
 
 <span class='anchor' id='-honors-and-awards'></span>
 # 🏆 Honors and Awards
-- *2019.11*  2nd Prize at the National Level, China Undergraduate Mathematical Contest in Modeling(CUMCM)
-- *2019.08*  2nd Prize at the National Level, China Undergraduate Physics Tournament(CUPT) **(As Team Leader)**
-- *2021.06*  Outstanding Graduate of Shandong Province
-- *2022.11*  Academic First Prize Scholarship, BIT
+- *2019.11*   2nd Prize at the National Level, China Undergraduate Mathematical Contest in Modeling(CUMCM)
+- *2019.08*   2nd Prize at the National Level, China Undergraduate Physics Tournament(CUPT) **(As Team Leader)**
+- *2021.06*   Outstanding Graduate of Shandong Province
+- *2022.11*   Academic First Prize Scholarship, BIT
 
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
-- *2024 - now*, Sun Yat-sen University, Guangzhou, China
-- *2021 - 2024*, Beijing Institute of Technology, Beijing, China
-- *2017 - 2021*, Ocean University of China, Qingdao, China
+- *2024 - now*   Sun Yat-sen University, Guangzhou, China
+- *2021 - 2024*  Beijing Institute of Technology, Beijing, China
+- *2017 - 2021*  Ocean University of China, Qingdao, China
