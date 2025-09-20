@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 📜 About Me
-📚 Haochen Chang is currently a Ph.D. student in Computer Science at Sun Yat-sen University, supervised by Prof. Hongbo Chen. Previously, he obtained his bachelor's degree from Ocean University of China and his master's degree from Beijing Institute of Technology.
+📚 Haochen Chang is currently a Ph.D. student in Computer Science at Sun Yat-sen University (SYSU), supervised by Prof. Hongbo Chen. Previously, he obtained his bachelor's degree from Ocean University of China (OUC) and his master's degree from Beijing Institute of Technology (BIT).
 
 💡 His research interest lies in (1)Hand-Object Interaction, (2)Action Recognition and Gesture Recognition.
 
@@ -41,7 +41,7 @@ redirect_from:
 
   <span style="font-size:14px;">Jisheng Dang, Shengjun Deng, <strong style="color:#DE3163;">Haochen Chang</strong>, Teng Wang, Bimei Wang, Shude Wang, Nannan Zhu, Guo Niu, Jingwen Zhao, Jizhao Liu </span>
 
-  <span style="font-size:14px;">*International Joint Conference on Artificial Intelligence **(IJCAI, CCF-A)**, 2025* </span>[[Paper](1998CHC.github.io)]
+  <span style="font-size:14px;">*International Joint Conference on Artificial Intelligence **(IJCAI, CCF-A)**, 2025* </span>[[Paper](https://www.ijcai.org/proceedings/2025/1019.pdf)]
 
 
 - &nbsp; <span class="badge" style="font-size:16px;">TIM '25 (JCR-Q1)</span> &nbsp;**Robust 6DoF Pose Tracking Considering Contour and Interior Correspondence Uncertainty for AR Assembly Guidance**
@@ -68,6 +68,6 @@ redirect_from:
 
 <span class='anchor' id='-educations'></span>
 # 📖 Educations
-- *2024 -  now*,  Sun Yat-sen University, Guangzhou, China
-- *2021 - 2024*,  Beijing Institute of Technology, Beijing, China
-- *2017 - 2021*,  Ocean University of China, Qingdao, China
+- *2024 -  now*,  Sun Yat-sen University(SYSU), Guangzhou, China
+- *2021 - 2024*,  Beijing Institute of Technology(BIT), Beijing, China
+- *2017 - 2021*,  Ocean University of China(OUC), Qingdao, China
