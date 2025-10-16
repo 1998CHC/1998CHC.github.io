@@ -34,7 +34,7 @@ redirect_from:
 
   <span style="font-size:14px;"><strong style="color:#DE3163;">Haochen Chang</strong>, Pengfei Ren, Haoyang Zhang, Liang Xie, Hongbo Chen, Erwei Yin </span>
 
-  <span style="font-size:14px;">*International Conference on Computer Vision **(ICCV, CCF-A)**, 2025* </span>[[Paper]([1998CHC.github.io](https://openaccess.thecvf.com/content/ICCV2025/papers/Chang_Hierarchical-aware_Orthogonal_Disentanglement_Framework_for_Fine-grained_Skeleton-based_Action_Recognition_ICCV_2025_paper.pdf))]
+  <span style="font-size:14px;">*International Conference on Computer Vision **(ICCV, CCF-A)**, 2025* </span>[[Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Chang_Hierarchical-aware_Orthogonal_Disentanglement_Framework_for_Fine-grained_Skeleton-based_Action_Recognition_ICCV_2025_paper.pdf)]
 
 
 - &nbsp; <span class="badge" style="font-size:16px;">IJCAI '25 (CCF-A)</span> &nbsp;**Hallucination Reduction in Video-Language Models via Hierarchical Multimodal Consistency**
