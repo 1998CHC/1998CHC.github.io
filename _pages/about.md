@@ -30,6 +30,13 @@ redirect_from:
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications 
+- &nbsp; <span class="badge" style="font-size:16px;">Arxiv</span> &nbsp;**OMG-Bench: A New Challenging Benchmark for Skeleton-based Online Micro Hand Gesture Recognition**
+
+  <span style="font-size:14px;"><strong style="color:#DE3163;">Haochen Chang</strong>, Pengfei Ren, Buyuan Zhang, Da Li, Tianhao Han, Haoyang Zhang, Liang Xie, Hongbo Chen, Erwei Yin </span>
+
+  <span style="font-size:14px;">*Arxiv, 2025* </span>[[Paper](https://arxiv.org/pdf/2512.16727)][[Page](https://omg-bench.github.io/)]
+
+
 - &nbsp; <span class="badge" style="font-size:16px;">ICCV '25 (CCF-A)</span> &nbsp;**Hierarchical-aware Orthogonal Disentanglement Framework for Fine-grained Skeleton-based Action Recognition**
 
   <span style="font-size:14px;"><strong style="color:#DE3163;">Haochen Chang</strong>, Pengfei Ren, Haoyang Zhang, Liang Xie, Hongbo Chen, Erwei Yin </span>
