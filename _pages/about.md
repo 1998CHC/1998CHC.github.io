@@ -24,7 +24,7 @@ redirect_from:
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 OMG-Bench and UST-Hand have been accepted by <span style="color:Red ;">CVPR 2026</span>.
+- *2026.02*: &nbsp;🎉🎉 Two papers have been accepted by <span style="color:Red ;">CVPR 2026</span>.
 - *2025.09*: &nbsp;🎉🎉 My homepage is ready!
 - *2025.07*: &nbsp;🎉🎉 Our HiOD has been accepted by <span style="color:Red ;">ICCV 2025</span>.
 
@@ -32,14 +32,14 @@ redirect_from:
 <span class='anchor' id='-publications'></span>
 # 📝 Publications 
 
-- &nbsp; <span class="badge" style="font-size:16px;">CVPR 2026</span> &nbsp;**OMG-Bench: A New Challenging Benchmark for Skeleton-based Online Micro Hand Gesture Recognition**
+- &nbsp; <span class="badge" style="font-size:16px;">CVPR 2026 (CCF-A)</span> &nbsp;**OMG-Bench: A New Challenging Benchmark for Skeleton-based Online Micro Hand Gesture Recognition**
 
   <span style="font-size:14px;"><strong style="color:#DE3163;">Haochen Chang</strong>, Pengfei Ren, Buyuan Zhang, Da Li, Tianhao Han, Haoyang Zhang, Liang Xie, Hongbo Chen, Erwei Yin </span>
 
   <span style="font-size:14px;">*IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR, CCF-A)**, 2026* </span>[[Paper](https://arxiv.org/pdf/2512.16727)][[Page](https://omg-bench.github.io/)]
 
 
-- &nbsp; <span class="badge" style="font-size:16px;">CVPR 2026</span> &nbsp;**UST-Hand: An Uncertainty-aware Spatiotemporal Point Cloud Interaction Network for 3D Self-supervised Hand Pose Estimation**
+- &nbsp; <span class="badge" style="font-size:16px;">CVPR 2026 (CCF-A)</span> &nbsp;**UST-Hand: An Uncertainty-aware Spatiotemporal Point Cloud Interaction Network for 3D Self-supervised Hand Pose Estimation**
 
   <span style="font-size:14px;">Tianhao Han, Haoyang Zhang, Liang Xie, <strong style="color:#DE3163;">Haochen Chang</strong>, Kun Gao, Yuan Cheng, Pengfei Ren, Erwei Yin </span>
 
