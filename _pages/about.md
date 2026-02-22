@@ -92,7 +92,7 @@ redirect_from:
   <!-- 中山大学 SYSU -->
   <div style="display: table-row;">
     <div style="display: table-cell; vertical-align: middle; width: 80px; padding-right: 20px;">
-      <img src="images/logo_sysu.png" style="width: 70px; height: 70px">
+      <img src="images/logo_sysu.png" style="width: 70px; height: 70px; object-fit: contain; display: block; margin: 0 auto;">
     </div>
     <div style="display: table-cell; vertical-align: middle;">
       <strong>2024 - now</strong>, Sun Yat-sen University (SYSU), Guangzhou, China
@@ -104,7 +104,7 @@ redirect_from:
   <!-- 北京理工大学 BIT -->
   <div style="display: table-row;">
     <div style="display: table-cell; vertical-align: middle; width: 80px; padding-right: 20px;">
-      <img src="images/logo_bit.png" style="width: 70px; height: 70px">
+      <img src="images/logo_bit.png" style="width: 70px; height: 70px; object-fit: contain; display: block; margin: 0 auto;">
     </div>
     <div style="display: table-cell; vertical-align: middle;">
       <strong>2021 - 2024</strong>, Beijing Institute of Technology (BIT), Beijing, China
@@ -116,7 +116,7 @@ redirect_from:
   <!-- 中国海洋大学 OUC -->
   <div style="display: table-row;">
     <div style="display: table-cell; vertical-align: middle; width: 80px; padding-right: 20px;">
-      <img src="images/logo_ouc.png" style="width: 70px; height: 70px">
+      <img src="images/logo_ouc.png" style="width: 70px; height: 70px; object-fit: contain; display: block; margin: 0 auto;">
     </div>
     <div style="display: table-cell; vertical-align: middle;">
       <strong>2017 - 2021</strong>, Ocean University of China (OUC), Qingdao, China
