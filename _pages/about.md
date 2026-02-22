@@ -19,14 +19,15 @@ redirect_from:
 # 📜 About Me
 📚 Haochen Chang is currently a Ph.D. student in Computer Science at Sun Yat-sen University (SYSU), supervised by Prof. Hongbo Chen. Previously, he obtained his bachelor's degree from Ocean University of China (OUC) and his master's degree from Beijing Institute of Technology (BIT).
 
-💡 His research interest lies in (1)Hand-Object Interaction, (2)Action Recognition and Gesture Recognition.
+💡 His research interest lies in (1)Dexterous Grasp, (2)Hand-Object Interaction, and (3)Action Recognition and Gesture Recognition.
 
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 Two papers have been accepted by <span style="color:Red ;">CVPR 2026</span>.
+- *2026.02*: &nbsp;🎉🎉 OMG-Bench was accepted by <span style="color:Red ;">CVPR 2026</span>.
+- *2026.02*: &nbsp;🎉🎉 UST-Hand was accepted by <span style="color:Red ;">CVPR 2026</span>.
 - *2025.09*: &nbsp;🎉🎉 My homepage is ready!
-- *2025.07*: &nbsp;🎉🎉 Our HiOD has been accepted by <span style="color:Red ;">ICCV 2025</span>.
+- *2025.07*: &nbsp;🎉🎉 HiOD was accepted by <span style="color:Red ;">ICCV 2025</span>.
 
 
 <span class='anchor' id='-publications'></span>
@@ -89,34 +90,29 @@ redirect_from:
 - *2017 - 2021*,  Ocean University of China(OUC), Qingdao, China -->
 <div style="display: table; width: 100%;">
   
-  <!-- 中山大学 SYSU -->
   <div style="display: table-row;">
     <div style="display: table-cell; vertical-align: middle; width: 80px; padding-right: 20px;">
-      <img src="images/logo_sysu.png" style="width: 70px; height: 70px; object-fit: contain; display: block; margin: 0 auto;">
+      <img src="images/logo_sysu.png" style="width: 60px; height: 60px; object-fit: contain; display: block; margin: 0 auto;">
     </div>
     <div style="display: table-cell; vertical-align: middle;">
       <strong>2024 - now</strong>, Sun Yat-sen University (SYSU), Guangzhou, China
     </div>
   </div>
 
-  <div style="height: 15px;"></div> <!-- 增加一点间距 -->
 
-  <!-- 北京理工大学 BIT -->
   <div style="display: table-row;">
     <div style="display: table-cell; vertical-align: middle; width: 80px; padding-right: 20px;">
-      <img src="images/logo_bit.png" style="width: 70px; height: 70px; object-fit: contain; display: block; margin: 0 auto;">
+      <img src="images/logo_bit.png" style="width: 60px; height: 60px; object-fit: contain; display: block; margin: 0 auto;">
     </div>
     <div style="display: table-cell; vertical-align: middle;">
       <strong>2021 - 2024</strong>, Beijing Institute of Technology (BIT), Beijing, China
     </div>
   </div>
   
-  <div style="height: 15px;"></div> <!-- 增加一点间距 -->
 
-  <!-- 中国海洋大学 OUC -->
   <div style="display: table-row;">
     <div style="display: table-cell; vertical-align: middle; width: 80px; padding-right: 20px;">
-      <img src="images/logo_ouc.png" style="width: 70px; height: 70px; object-fit: contain; display: block; margin: 0 auto;">
+      <img src="images/logo_ouc.png" style="width: 60px; height: 60px; object-fit: contain; display: block; margin: 0 auto;">
     </div>
     <div style="display: table-cell; vertical-align: middle;">
       <strong>2017 - 2021</strong>, Ocean University of China (OUC), Qingdao, China
