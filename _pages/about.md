@@ -24,41 +24,50 @@ redirect_from:
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 OMG-Bench and UST-Hand have been accepted by <span style="color:Red ;">CVPR 2026</span>.
 - *2025.09*: &nbsp;🎉🎉 My homepage is ready!
-- *2025.07*: &nbsp;🎉🎉 Our HiOD was accepted by <span style="color:Red ;">ICCV 2025</span>.
+- *2025.07*: &nbsp;🎉🎉 Our HiOD has been accepted by <span style="color:Red ;">ICCV 2025</span>.
 
 
 <span class='anchor' id='-publications'></span>
 # 📝 Publications 
-- &nbsp; <span class="badge" style="font-size:16px;">Arxiv</span> &nbsp;**OMG-Bench: A New Challenging Benchmark for Skeleton-based Online Micro Hand Gesture Recognition**
+
+- &nbsp; <span class="badge" style="font-size:16px;">CVPR 2026</span> &nbsp;**OMG-Bench: A New Challenging Benchmark for Skeleton-based Online Micro Hand Gesture Recognition**
 
   <span style="font-size:14px;"><strong style="color:#DE3163;">Haochen Chang</strong>, Pengfei Ren, Buyuan Zhang, Da Li, Tianhao Han, Haoyang Zhang, Liang Xie, Hongbo Chen, Erwei Yin </span>
 
-  <span style="font-size:14px;">*Arxiv, 2025* </span>[[Paper](https://arxiv.org/pdf/2512.16727)][[Page](https://omg-bench.github.io/)]
+  <span style="font-size:14px;">*IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR, CCF-A)**, 2026* </span>[[Paper](https://arxiv.org/pdf/2512.16727)][[Page](https://omg-bench.github.io/)]
 
 
-- &nbsp; <span class="badge" style="font-size:16px;">ICCV '25 (CCF-A)</span> &nbsp;**Hierarchical-aware Orthogonal Disentanglement Framework for Fine-grained Skeleton-based Action Recognition**
+- &nbsp; <span class="badge" style="font-size:16px;">CVPR 2026</span> &nbsp;**UST-Hand: An Uncertainty-aware Spatiotemporal Point Cloud Interaction Network for 3D Self-supervised Hand Pose Estimation**
+
+  <span style="font-size:14px;">Tianhao Han, Haoyang Zhang, Liang Xie, <strong style="color:#DE3163;">Haochen Chang</strong>, Kun Gao, Yuan Cheng, Pengfei Ren, Erwei Yin </span>
+
+  <span style="font-size:14px;">*IEEE/CVF Conference on Computer Vision and Pattern Recognition **(CVPR, CCF-A)**, 2026* </span>[[Paper](https://1998chc.github.io/)]
+
+
+- &nbsp; <span class="badge" style="font-size:16px;">ICCV 2025 (CCF-A)</span> &nbsp;**Hierarchical-aware Orthogonal Disentanglement Framework for Fine-grained Skeleton-based Action Recognition**
 
   <span style="font-size:14px;"><strong style="color:#DE3163;">Haochen Chang</strong>, Pengfei Ren, Haoyang Zhang, Liang Xie, Hongbo Chen, Erwei Yin </span>
 
   <span style="font-size:14px;">*International Conference on Computer Vision **(ICCV, CCF-A)**, 2025* </span>[[Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Chang_Hierarchical-aware_Orthogonal_Disentanglement_Framework_for_Fine-grained_Skeleton-based_Action_Recognition_ICCV_2025_paper.pdf)]
 
 
-- &nbsp; <span class="badge" style="font-size:16px;">IJCAI '25 (CCF-A)</span> &nbsp;**Hallucination Reduction in Video-Language Models via Hierarchical Multimodal Consistency**
+- &nbsp; <span class="badge" style="font-size:16px;">IJCAI 2025 (CCF-A)</span> &nbsp;**Hallucination Reduction in Video-Language Models via Hierarchical Multimodal Consistency**
 
   <span style="font-size:14px;">Jisheng Dang, Shengjun Deng, <strong style="color:#DE3163;">Haochen Chang</strong>, Teng Wang, Bimei Wang, Shude Wang, Nannan Zhu, Guo Niu, Jingwen Zhao, Jizhao Liu </span>
 
   <span style="font-size:14px;">*International Joint Conference on Artificial Intelligence **(IJCAI, CCF-A)**, 2025* </span>[[Paper](https://www.ijcai.org/proceedings/2025/1019.pdf)]
 
 
-- &nbsp; <span class="badge" style="font-size:16px;">TIM '25 (JCR-Q1)</span> &nbsp;**Robust 6DoF Pose Tracking Considering Contour and Interior Correspondence Uncertainty for AR Assembly Guidance**
+- &nbsp; <span class="badge" style="font-size:16px;">TIM 2025 (JCR-Q1)</span> &nbsp;**Robust 6DoF Pose Tracking Considering Contour and Interior Correspondence Uncertainty for AR Assembly Guidance**
 
   <span style="font-size:14px;">Jixiang Chen, Jing Chen, Kai Liu, <strong style="color:#DE3163;">Haochen Chang</strong>, Shanfeng Fu, Jian Yang </span>
 
   <span style="font-size:14px;">*IEEE Transactions on Instrumentation and Measurement **(TIM, JCR-Q1)**, 2025* </span>[[Paper](https://arxiv.org/pdf/2502.11971)]
 
 
-- &nbsp; <span class="badge" style="font-size:16px;">ICASSP '24 (CCF-B)</span> &nbsp;**Wavelet-decoupling contrastive enhancement network for fine-grained skeleton-based action recognition**
+- &nbsp; <span class="badge" style="font-size:16px;">ICASSP 2024 (CCF-B)</span> &nbsp;**Wavelet-decoupling contrastive enhancement network for fine-grained skeleton-based action recognition**
 
   <span style="font-size:14px;"><strong style="color:#DE3163;">Haochen Chang</strong>, Jing Chen, Yilin Li, Jixiang Chen, Xiaofeng Zhang </span>
 
